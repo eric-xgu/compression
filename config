@@ -1,0 +1,14 @@
+#压缩或者解压缩，1为压缩，2为解压缩
+comp_type=1
+#压缩路径，与压缩流保留路径
+resource_dir=D:/c
+#压缩单个文件,多个文件
+#resource_file=D:/c/centos-suse/env-auto-deploy/env_deploy.sh D:/jar/Conn.jar
+resource_file=
+target_dir=D:/c/d.tar.gz
+
+#压缩格式{tar.gz,zip,rar,}
+compress_type=tar.gz
+
+uncompress_file=
+uncompress_dir=
